@@ -1,0 +1,21 @@
+[submodule "wiznet-iot-shield-mbed-kr"]
+	path = wiznet-iot-shield-mbed-kr
+	url = https://github.com/Wiznet/wiznet-iot-shield-mbed-kr.git
+[submodule "wiznet-iot-shield-arduino-kr"]
+	path = wiznet-iot-shield-arduino-kr
+	url = https://github.com/Wiznet/wiznet-iot-shield-arduino-kr.git
+[submodule "wiznet-iot-shield-kr"]
+	path = wiznet-iot-shield-kr
+	url = https://github.com/Wiznet/wiznet-iot-shield-kr
+[submodule "wiznet-iot-shield-hardware-kr"]
+	path = wiznet-iot-shield-hardware-kr
+	url = https://github.com/Wiznet/wiznet-iot-shield-hardware-kr.git
+[submodule "wiznet-iot-shield-raspberrypi-kr"]
+	path = wiznet-iot-shield-raspberrypi-kr
+	url = https://github.com/Wiznet/wiznet-iot-shield-raspberrypi-kr.git
+[submodule "woorinet-wdn400s-kr"]
+	path = woorinet-wdn400s-kr
+	url = https://github.com/Wiznet/woorinet-wdn400s-kr
+[submodule "woorinet-wd-n400s-kr"]
+	path = woorinet-wd-n400s-kr
+	url = https://github.com/Wiznet/woorinet-wd-n400s-kr
